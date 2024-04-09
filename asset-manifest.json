@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/PramodhaKasam/vaultcoin.git/static/css/main.1e1d70f7.css",
+    "main.js": "/PramodhaKasam/vaultcoin.git/static/js/main.10e8804d.js",
+    "static/js/453.ad6eb26e.chunk.js": "/PramodhaKasam/vaultcoin.git/static/js/453.ad6eb26e.chunk.js",
+    "static/media/a.png": "/PramodhaKasam/vaultcoin.git/static/media/a.ebe8d3ebb38ff0d0110c.png",
+    "index.html": "/PramodhaKasam/vaultcoin.git/index.html",
+    "main.1e1d70f7.css.map": "/PramodhaKasam/vaultcoin.git/static/css/main.1e1d70f7.css.map",
+    "main.10e8804d.js.map": "/PramodhaKasam/vaultcoin.git/static/js/main.10e8804d.js.map",
+    "453.ad6eb26e.chunk.js.map": "/PramodhaKasam/vaultcoin.git/static/js/453.ad6eb26e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1e1d70f7.css",
+    "static/js/main.10e8804d.js"
+  ]
+}
